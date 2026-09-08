@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "downloadUrl": "https://github.com/vovhik333-cmd/app-updates/releases/download/1.0.1/app-debug.apk",
-  "changelog": "Оновлення додатка"
+  "versionCode": 5,
+  "versionName": "1.2",
+  "downloadUrl": "https://github.com/vovhik333-cmd/app-updates/releases/download/1.2/app-debug.apk",
+  "changelog": "Зустрів пасажира, виправлено заробіток, графік статистики, гарніший діалог оновлення"
 }
